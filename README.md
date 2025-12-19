@@ -1,5 +1,4 @@
-## Hi there 👋
-
+![silk floss tree](./assets/_tree.png)
 <!--
 **tudormunteanu/tudormunteanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
